@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "name": "Cheeseburger1",
+      "price": "100",
+      "image": "https://storage.pizzapizza.ca/phx2-uat-wordpress-uploads/1/2020/01/KetoPepperoni-1.png",
+      "id": "1"
+    },
+    {
+      "name": "Cheeseburger2",
+      "price": "200",
+      "image": "https://storage.pizzapizza.ca/phx2-uat-wordpress-uploads/1/2020/01/KetoPepperoni-1.png",
+      "id": "2"
+    },
+    {
+      "name": "Cheeseburger3",
+      "price": "300",
+      "image": "https://storage.pizzapizza.ca/phx2-uat-wordpress-uploads/1/2020/01/KetoPepperoni-1.png",
+      "id": "3"
+    },
+    {
+      "name": "Cheeseburger4",
+      "price": "400",
+      "image": "https://storage.pizzapizza.ca/phx2-uat-wordpress-uploads/1/2020/01/KetoPepperoni-1.png",
+      "id": "4"
+    },
+    {
+      "name": "Cheeseburger5",
+      "price": "500",
+      "image": "https://storage.pizzapizza.ca/phx2-uat-wordpress-uploads/1/2020/01/KetoPepperoni-1.png",
+      "id": "5"
+    },
+    {
+      "name": "Cheeseburger6",
+      "price": "600",
+      "image": "https://storage.pizzapizza.ca/phx2-uat-wordpress-uploads/1/2020/01/KetoPepperoni-1.png",
+      "id": "6"
+    }
+  ],
+  "users": [
+    {
+      "username": "Suyog",
+      "email": "suyog@react.com",
+      "password": "Suyog@123",
+      "mobile": "1234567890",
+      "id": 2
+    }
+  ]
+}
